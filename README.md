@@ -20,4 +20,4 @@ Welcome to the official GitHub profile of **MACVerify**. We provide the fastest 
 ### 🔗 Quick Links
 * **Official Website:** [macverify.com](https://macverify.com)
 * **API Documentation:** [Get Started Now](https://macverify.com/api-service.php)
-* **Network Tools:** [IP Calculator](https://macverify.com/ip-calculator) | [Network Scanner](https://macverify.com/scan)
+* **Network Tools:** [IP Calculator](https://macverify.com/ip-calculator.php) | [Network Scanner](https://macverify.com/scan)
